@@ -9,7 +9,7 @@
  "type": "number",
  },
   {
-    "displayName": "Last Name (required)",
+    "displayName": "Surname (required)",
     "fieldName": "lastName",
     "type": "text",
   }]
