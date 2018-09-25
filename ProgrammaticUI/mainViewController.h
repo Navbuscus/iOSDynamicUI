@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  mainViewController.h
 //  ProgrammaticUI
 //
 //  Created by Navjeet Dhaliwal on 2018-09-18.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface mainViewController : UIViewController
 
 @end
-

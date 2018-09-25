@@ -1,0 +1,15 @@
+[{
+    "displayName": "First Name (required)",
+    "fieldName": "firstName",
+    "type": "text",
+ },
+ {
+ "displayName": "Age (required)",
+ "fieldName": "age",
+ "type": "number",
+ },
+  {
+    "displayName": "Last Name (required)",
+    "fieldName": "lastName",
+    "type": "text",
+  }]
